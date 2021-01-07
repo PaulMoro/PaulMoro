@@ -1,7 +1,6 @@
-# Bienvenido!! :sparkles:
-
-## Soy Paul Moro <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
-### Front end y enamorado del UX
+Bienvenido!! :sparkles:
+## Soy Paul Moro <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+Front end y enamorado del UX
 
 ## Resumen
 
@@ -14,7 +13,7 @@ Yes, I know English but I need to practice, for this reason I'll continue like t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmoro&layout=compact)](https://github.com/paulmoro/github-readme-stats)
 
-![](https://i.imgur.com/5BmhUmu.png)
+![](https://i.imgur.com/tc3MqfK.png)
 
 ## Goals 2021
 
@@ -25,8 +24,8 @@ Yes, I know English but I need to practice, for this reason I'll continue like t
 
 ## Contact
 
-[Linkedin](https://www.linkedin.com/in/paulmoro/)
-[Twitter](https://twitter.com/PaulMoro9)
+- [Linkedin](https://www.linkedin.com/in/paulmoro/)
+- [Twitter](https://twitter.com/PaulMoro9)
 
 <!--
 **PaulMoro/PaulMoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
