@@ -1,6 +1,6 @@
 # Bienvenido!! :sparkles:
 
-## Soy Paul Moro <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Soy Paul Moro <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 ### Front end y enamorado del UX
 
 ## Resumen
@@ -14,7 +14,7 @@ Yes, I know English but I need to practice, for this reason I'll continue like t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmoro&layout=compact)](https://github.com/paulmoro/github-readme-stats)
 
-![](https://imgur.com/a/z9Ue7Ok)
+![](https://i.imgur.com/5BmhUmu.png)
 
 ## Goals 2021
 
