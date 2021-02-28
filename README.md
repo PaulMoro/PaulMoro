@@ -1,10 +1,10 @@
 Bienvenido!! :sparkles:
 ## Soy Paul Moro <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-Front end y enamorado del UX
+Front end developer
 
 ## Resumen
 
-Me encanta hacerle la vida más fácil a las personas. Todos los diás aprendo algo nuevo de tecnologías front end, tambien sé impresion 3d, SEO y wordpress. Fui uno de los mejores estudiantes en [Platzi](https://platzi.com/) y ahora hago parte de Platzi Master, todo un mundo para nunca parar de aprender.
+Me encanta hacerle la vida más fácil a las personas. Todos los diás aprendo algo nuevo de tecnologías front end, tambien sé SEO y wordpress. Fui uno de los mejores estudiantes en [Platzi](https://platzi.com/) y ahora hago parte de Platzi Master, todo un mundo para nunca parar de aprender.
 Ahora busco trabajo, si sabes de algo :wink:
 
 Yes, I know English but I need to practice, for this reason I'll continue like this.
