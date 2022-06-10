@@ -1,5 +1,5 @@
 Bienvenido!! :sparkles:
-## Soy Paul Moro <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+## Soy Paul Moro <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 Front end developer
 
 ## Resumen
