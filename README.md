@@ -6,15 +6,15 @@ Front end developer
 
 With over 5 years of experience in web development, I specialize in Shopify, WordPress, React, and Vue, building high-performance, scalable, and visually engaging digital experiences. My expertise spans from custom Shopify themes to complex integrations, ensuring seamless functionality and top-tier user experiences.
 
-💡 Key Achievements:
+## 💡 Key Achievements:
 Recognized among the top 10% of students on [Platzi](https://platzi.com/), earning the Platzi Master distinction.
 JAM winner, collaborating with developers worldwide on web projects.
 Extensive experience working with international teams, handling e-commerce and CMS solutions for global brands.
-🔧 Tech Stack & Skills:
-Front-End Development: JavaScript (ES6+), HTML, CSS, SASS, Tailwind
-E-Commerce & CMS: Shopify (Liquid), WordPress, Kajabi
-Frameworks & Tools: React, Vue, GitHub, SCRUM, JSON
-Performance & Optimization: SEO, UX/UI, Speed & Accessibility Improvements
+## 🔧 Tech Stack & Skills:
+- Front-End Development: JavaScript (ES6+), HTML, CSS, SASS, Tailwind
+- E-Commerce & CMS: Shopify (Liquid), WordPress, Kajabi
+- Frameworks & Tools: React, Vue, GitHub, SCRUM, JSON
+- Performance & Optimization: SEO, UX/UI, Speed & Accessibility Improvements
 
 I am passionate about creating efficient, scalable and user-friendly web solutions. Always eager to learn and push the limits of front-end development. Let’s connect!
 
