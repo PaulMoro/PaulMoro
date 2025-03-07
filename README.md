@@ -1,13 +1,22 @@
-Bienvenido!! :sparkles:
+Welcome!! :sparkles:
 ## Soy Paul Moro <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 Front end developer
 
 ## Resumen
 
-Me encanta hacerle la vida más fácil a las personas. Todos los diás aprendo algo nuevo de tecnologías front end (Reach y Vue), tambien sé SEO, Wordpress, Shopify y tecnologias Headless. Fui uno de los mejores estudiantes en [Platzi](https://platzi.com/) y ahora hago parte de Platzi Master, todo un mundo para nunca parar de aprender.
-Ahora busco trabajo, si sabes de algo :wink:
+With over 5 years of experience in web development, I specialize in Shopify, WordPress, React, and Vue, building high-performance, scalable, and visually engaging digital experiences. My expertise spans from custom Shopify themes to complex integrations, ensuring seamless functionality and top-tier user experiences.
 
-Yes, I know English but I need to practice, for this reason I'll continue like this.
+💡 Key Achievements:
+Recognized among the top 10% of students on [Platzi](https://platzi.com/), earning the Platzi Master distinction.
+JAM winner, collaborating with developers worldwide on web projects.
+Extensive experience working with international teams, handling e-commerce and CMS solutions for global brands.
+🔧 Tech Stack & Skills:
+Front-End Development: JavaScript (ES6+), HTML, CSS, SASS, Tailwind
+E-Commerce & CMS: Shopify (Liquid), WordPress, Kajabi
+Frameworks & Tools: React, Vue, GitHub, SCRUM, JSON
+Performance & Optimization: SEO, UX/UI, Speed & Accessibility Improvements
+
+I am passionate about creating efficient, scalable and user-friendly web solutions. Always eager to learn and push the limits of front-end development. Let’s connect!
 
 ## My Technologies
 
@@ -15,19 +24,19 @@ Yes, I know English but I need to practice, for this reason I'll continue like t
 
 ![](https://i.imgur.com/tc3MqfK.png)
 
-## Goals 2021
+## Goals 2024
 
-- Get job in Tech. ✅
+- I bought my own property. ✅
+- I was present with my family.✅
+- I empowered my coworkers. ✅
+
+## Goals 2025
+
+- Visit my mom.
 - Improve my english.
-- Get a new PC and a office home better. ✅
-- Visit my mom, she live in other country.✅
-
-## Goals 2022
-- Improve my english level C2
-- Shaer my knowledge
-- Grow my personal brand
+- Shaer my knowledge.
+- Use AI more to handle my boring tasks.
 
 ## Contact
 
 - [Linkedin](https://www.linkedin.com/in/paulmoro/)
-- [Twitter](https://twitter.com/PaulMoro9)
